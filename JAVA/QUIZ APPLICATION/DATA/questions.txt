@@ -1,0 +1,5 @@
+What is the capital of France?|Paris|London|Berlin|Madrid|A
+Which language is used for web apps?|Python|Java|JavaScript|C++|C
+Which planet is known as the Red Planet?|Venus|Earth|Mars|Jupiter|C
+What does CPU stand for?|Central Process Unit|Central Processing Unit|Computer Personal Unit|Central Processor Utility|B
+Which is not an OOP concept?|Encapsulation|Abstraction|Polymorphism|Compilation|D
